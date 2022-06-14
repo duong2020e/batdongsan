@@ -11,7 +11,17 @@ Bootstrap,
 
 Có các tính năng ở trang web:
 
-Các loại sản phẩm 
+Các loại sản phẩm
+
+![image](https://user-images.githubusercontent.com/72533430/173475774-a90640b4-83ed-4e8a-90ae-3eda0ba5edbb.png)
+
+![image](https://user-images.githubusercontent.com/72533430/173475839-d4a90226-60dc-4a42-ae25-0c3bd73c168d.png)
+
+![image](https://user-images.githubusercontent.com/72533430/173475873-3a98d3bc-3deb-4f3a-a38a-ccbf01e77512.png)
+
+![image](https://user-images.githubusercontent.com/72533430/173475906-f3bfedd4-0452-4f4f-9e62-8bda1b769af7.png)
+
+![image](https://user-images.githubusercontent.com/72533430/173475949-c22401f6-a4bb-4c0d-aa59-a194c1450224.png)
 
 Thêm phần thông tin khách hàng
 
