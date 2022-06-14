@@ -9,6 +9,10 @@ EF Core,
 
 Bootstrap,
 
+LinQ
+
+Blazor
+
 Có các tính năng ở trang web:
 
 Các loại sản phẩm
